@@ -1,7 +1,7 @@
 # Interesting-Stat-CS-Papers
-Interesting papers in Stat/CS I have read.
+Interesting papers in Stat/CS I have read during my Ph.D. study.
 
-## Statistical Learning
+## Stat Learning
 
 ## General Methodology
 
