@@ -3,6 +3,8 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 
 ## Stat Learning
 
+**Generative Modelling by Estimating the Gradient of the Distribution** BY Y. Song
+
 ## Stat Methodology
 
 **Universal Inference** by Larry Wasserman
