@@ -3,7 +3,11 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 
 ## Stat Learning
 
-## General Methodology
+## Stat Methodology
+
+**Universal Inference** by Larry Wasserman
+
+**Ranking Inferences Based on the Top Choice of Multiway Comparisons** by Jianqing Fan
 
 ## Stat Theory
 
