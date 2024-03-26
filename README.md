@@ -11,6 +11,20 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 
 **Ranking Inferences Based on the Top Choice of Multiway Comparisons** by Jianqing Fan
 
+**Embedding Learning** by Ben Dai
+
+**Significance tests of feature relevance for a black-box learner** by Ben Dai
+
+**Smooth neighborhood recommender systems** by Ben Dai
+
+**Scalable collaborative ranking for personalized prediction** by Ben Dai
+
+**Coupled Generation** by Ben Dai
+
+## Optimization / Computational Statistics
+
+**ReHLine: Regularized Composite ReLU-ReHU Loss Minimization with Linear Computation and Linear Convergence** by Ben Dai
+
 ## Stat Theory
 
 **Information Flow in Self-Supervised Learning** by Zhiquan Tan
@@ -30,7 +44,5 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 **Informed proposals for local MCMC in discrete spaces** by Zanella
 
 **The Barker proposal: combining robustness and efficiency in gradient-based MCMC** by S.Livingstone
-
-## Optimization
 
 ## Application
