@@ -13,6 +13,8 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 
 ## Stat Theory
 
+**Information Flow in Self-Supervised Learning** by Zhiquan Tan
+
 ## Monte Carlo Methods
 
 **Geometry of Sampling** by Zhu Jun
