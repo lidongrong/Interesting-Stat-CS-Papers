@@ -7,6 +7,8 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 
 ## Stat Methodology
 
+**gaussian variational approximation with composite likelihood for crossed random effect models** by Libai Xu 
+
 **Universal Inference** by Larry Wasserman
 
 **Ranking Inferences Based on the Top Choice of Multiway Comparisons** by Jianqing Fan
