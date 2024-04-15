@@ -5,7 +5,11 @@ Interesting papers in Stat/CS I have read during my Ph.D. study.
 
 **Generative Modelling by Estimating the Gradient of the Distribution** BY Y. Song
 
+**Sparse Topic Modeling: Computational Efficiency,Near-Optimal Algorithms, and Statistical Inference** by Tony Cai
+
 ## Stat Methodology
+
+**Transfer Learning for High-Dimensional Linear Regression: Prediction, Estimation, and Minimax Optimality** by Tony Cai
 
 **gaussian variational approximation with composite likelihood for crossed random effect models** by Libai Xu 
 
